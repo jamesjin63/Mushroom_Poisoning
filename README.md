@@ -8,3 +8,5 @@ This archive encompasses a comprehensive collection of digital resources related
 2. **Blogger's Personal Narration Transcripts**: The archive also includes transcripts of the blogger’s personal narrations, originally shared as voice recordings. These have been meticulously converted to text to ensure accessibility and ease of analysis. The transcripts detail the blogger’s firsthand experiences, symptoms, the medical care received, and the role of social media in facilitating their recovery.
 
 All records in this archive have been obtained from public online sources and are preserved to facilitate future research and educational endeavors, providing insights into the intersection of health emergencies, personal narrative, and digital media influence in public health practices.
+
+[![Figure 1](https://github.com/jamesjin63/Mushroom_Poisoning/blob/main/Figure1.pdf "Click to view Figure 1")](https://github.com/jamesjin63/Mushroom_Poisoning/blob/main/Figure1.pdf)
